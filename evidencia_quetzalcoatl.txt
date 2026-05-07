@@ -1,0 +1,436 @@
+[2026-04-21 20:01:04] [SISTEMA] Intercepción en 'Desconocido': Tecla capturada: 'Meta' | Buffer acumulado: 
+[2026-04-21 20:01:04] [SISTEMA] Intercepción en 'Desconocido': Tecla capturada: 'Shift' | Buffer acumulado: 
+[2026-04-21 20:01:05] [SISTEMA] Intercepción en 'Desconocido': Tecla capturada: 'r' | Buffer acumulado: r
+[2026-04-21 20:01:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: s
+[2026-04-21 20:01:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: ss
+[2026-04-21 20:01:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: sss
+[2026-04-21 20:01:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: ssss
+[2026-04-21 20:01:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: sssss
+[2026-04-21 20:01:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: ssssss
+[2026-04-21 20:01:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: sssssss
+[2026-04-21 20:01:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: ssssssss
+[2026-04-21 20:01:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: sssssssss
+[2026-04-21 20:01:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: ssssssssss
+[2026-04-21 20:01:17] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: sssssssss
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: ssssssss
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: sssssss
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: ssssss
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: sssss
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: ssss
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: sss
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: ss
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: s
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-21 20:01:18] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-21 20:01:36] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-21 20:01:47] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'R' | Buffer acumulado: R
+[2026-04-21 20:01:48] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'u' | Buffer acumulado: Ru
+[2026-04-21 20:01:48] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'l' | Buffer acumulado: Rul
+[2026-04-21 20:01:49] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: Rulo
+[2026-04-21 20:01:49] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: Rulo
+[2026-04-21 20:01:49] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'S' | Buffer acumulado: RuloS
+[2026-04-21 20:01:49] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'e' | Buffer acumulado: RuloSe
+[2026-04-21 20:01:50] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'c' | Buffer acumulado: RuloSec
+[2026-04-21 20:01:52] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '9' | Buffer acumulado: RuloSec9
+[2026-04-21 20:01:52] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '9' | Buffer acumulado: RuloSec99
+[2026-04-21 20:01:52] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '9' | Buffer acumulado: RuloSec999
+[2026-04-21 20:02:05] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-21 20:02:05] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'S' | Buffer acumulado: S
+[2026-04-21 20:02:05] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: Se
+[2026-04-21 20:02:06] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'c' | Buffer acumulado: Sec
+[2026-04-21 20:02:06] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: Sec
+[2026-04-21 20:02:06] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'R' | Buffer acumulado: SecR
+[2026-04-21 20:02:07] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'U' | Buffer acumulado: SecRU
+[2026-04-21 20:02:07] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'L' | Buffer acumulado: SecRUL
+[2026-04-21 20:02:07] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'O' | Buffer acumulado: SecRULO
+[2026-04-21 20:02:12] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: SecRULOo
+[2026-04-21 20:14:37] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-21 20:14:37] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'M' | Buffer acumulado: M
+[2026-04-21 20:14:38] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'i' | Buffer acumulado: Mi
+[2026-04-21 20:14:38] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'm' | Buffer acumulado: Mim
+[2026-04-21 20:14:38] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'i' | Buffer acumulado: Mimi
+[2026-04-21 20:14:39] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: Mimi
+[2026-04-21 20:14:39] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'H' | Buffer acumulado: MimiH
+[2026-04-21 20:14:40] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'e' | Buffer acumulado: MimiHe
+[2026-04-21 20:14:40] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'm' | Buffer acumulado: MimiHem
+[2026-04-21 20:14:40] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: MimiHemo
+[2026-04-21 20:14:40] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: MimiHemos
+[2026-04-21 20:14:40] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'h' | Buffer acumulado: MimiHemosh
+[2026-04-21 20:14:41] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: MimiHemosha
+[2026-04-21 20:14:43] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-21 20:14:43] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'T' | Buffer acumulado: T
+[2026-04-21 20:14:44] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: Te
+[2026-04-21 20:14:48] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: Te
+[2026-04-21 20:14:48] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'A' | Buffer acumulado: TeA
+[2026-04-21 20:14:49] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'm' | Buffer acumulado: TeAm
+[2026-04-21 20:14:49] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: TeAmo
+[2026-04-21 20:14:49] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: TeAmo
+[2026-04-21 20:14:49] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'M' | Buffer acumulado: TeAmoM
+[2026-04-21 20:14:50] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'u' | Buffer acumulado: TeAmoMu
+[2026-04-21 20:14:50] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'c' | Buffer acumulado: TeAmoMuc
+[2026-04-21 20:14:50] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'h' | Buffer acumulado: TeAmoMuch
+[2026-04-21 20:14:52] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: TeAmoMucho
+[2026-04-21 20:14:52] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: TeAmoMuchoo
+[2026-04-21 20:14:52] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: TeAmoMuchooo
+[2026-04-21 20:14:53] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: TeAmoMuchoooo
+[2026-04-22 14:07:11] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-22 14:07:12] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'A' | Buffer acumulado: A
+[2026-04-22 14:07:12] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'r' | Buffer acumulado: Ar
+[2026-04-22 14:07:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'm' | Buffer acumulado: Arm
+[2026-04-22 14:07:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: Arma
+[2026-04-22 14:07:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'n' | Buffer acumulado: Arman
+[2026-04-22 14:07:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'd' | Buffer acumulado: Armand
+[2026-04-22 14:07:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: Armando
+[2026-04-22 14:07:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: Armando
+[2026-04-22 14:07:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'C' | Buffer acumulado: ArmandoC
+[2026-04-22 14:07:14] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'P' | Buffer acumulado: ArmandoCP
+[2026-04-22 14:07:19] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: ArmandoC
+[2026-04-22 14:07:19] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: Armando
+[2026-04-22 14:07:20] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: Armando
+[2026-04-22 14:07:20] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'F' | Buffer acumulado: ArmandoF
+[2026-04-22 14:07:21] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'H' | Buffer acumulado: ArmandoFH
+[2026-04-22 14:07:24] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: ArmandoF
+[2026-04-22 14:07:24] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: Armando
+[2026-04-22 14:07:26] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'f' | Buffer acumulado: Armandof
+[2026-04-22 14:07:26] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'h' | Buffer acumulado: Armandofh
+[2026-04-22 14:07:47] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-22 14:07:47] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'T' | Buffer acumulado: T
+[2026-04-22 14:07:48] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: Ta
+[2026-04-22 14:07:48] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'k' | Buffer acumulado: Tak
+[2026-04-22 14:07:48] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'i' | Buffer acumulado: Taki
+[2026-04-22 14:07:49] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 's' | Buffer acumulado: Takis
+[2026-04-22 14:07:50] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: Takisa
+[2026-04-22 14:07:50] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'z' | Buffer acumulado: Takisaz
+[2026-04-22 14:07:50] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'u' | Buffer acumulado: Takisazu
+[2026-04-22 14:07:50] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'l' | Buffer acumulado: Takisazul
+[2026-04-22 14:08:14] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: Takisazu
+[2026-04-22 14:08:14] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: Takisaz
+[2026-04-22 14:08:14] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: Takisa
+[2026-04-22 14:08:14] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: Takis
+[2026-04-22 14:08:14] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: Taki
+[2026-04-22 14:08:15] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: Tak
+[2026-04-22 14:08:15] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: Ta
+[2026-04-22 14:08:15] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: T
+[2026-04-22 14:08:15] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-22 14:08:15] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-22 14:08:15] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-22 14:08:15] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-22 14:08:16] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: a
+[2026-04-22 14:08:16] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'r' | Buffer acumulado: ar
+[2026-04-22 14:08:16] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'm' | Buffer acumulado: arm
+[2026-04-22 14:08:17] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: arma
+[2026-04-22 14:08:17] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'n' | Buffer acumulado: arman
+[2026-04-22 14:08:17] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'd' | Buffer acumulado: armand
+[2026-04-22 14:08:17] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: armando
+[2026-04-22 14:08:18] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'c' | Buffer acumulado: armandoc
+[2026-04-22 14:08:18] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: armandoca
+[2026-04-22 14:08:18] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'r' | Buffer acumulado: armandocar
+[2026-04-22 14:08:18] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: armandocara
+[2026-04-22 14:08:19] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'd' | Buffer acumulado: armandocarad
+[2026-04-22 14:08:19] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: armandocarade
+[2026-04-22 14:08:19] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'm' | Buffer acumulado: armandocaradem
+[2026-04-22 14:08:19] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'i' | Buffer acumulado: armandocarademi
+[2026-04-22 14:08:20] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: ' ' | Buffer acumulado: armandocarademi 
+[2026-04-22 14:08:20] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'm' | Buffer acumulado: armandocarademi m
+[2026-04-22 14:08:20] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'i' | Buffer acumulado: armandocarademi mi
+[2026-04-22 14:08:20] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: armandocarademi mie
+[2026-04-22 14:08:20] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'm' | Buffer acumulado: armandocarademi miem
+[2026-04-22 14:08:21] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'b' | Buffer acumulado: armandocarademi miemb
+[2026-04-22 14:08:21] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'r' | Buffer acumulado: armandocarademi miembr
+[2026-04-22 14:08:21] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: armandocarademi miembro
+[2026-04-22 14:08:21] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: ' ' | Buffer acumulado: armandocarademi miembro 
+[2026-04-22 14:08:22] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Enter' | Buffer acumulado: armandocarademi miembro 
+[2026-04-22 19:42:57] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-22 19:42:58] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'C' | Buffer acumulado: C
+[2026-04-22 19:42:59] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: Ca
+[2026-04-22 19:42:59] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'n' | Buffer acumulado: Can
+[2026-04-22 19:42:59] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 't' | Buffer acumulado: Cant
+[2026-04-22 19:43:00] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'i' | Buffer acumulado: Canti
+[2026-04-22 19:43:00] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'n' | Buffer acumulado: Cantin
+[2026-04-22 19:43:00] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'f' | Buffer acumulado: Cantinf
+[2026-04-22 19:43:01] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'l' | Buffer acumulado: Cantinfl
+[2026-04-22 19:43:01] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: Cantinfla
+[2026-04-22 19:43:01] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: Cantinflas
+[2026-04-22 19:43:02] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '7' | Buffer acumulado: Cantinflas7
+[2026-04-22 19:43:02] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '7' | Buffer acumulado: Cantinflas77
+[2026-04-22 19:43:24] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-22 19:43:25] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'P' | Buffer acumulado: P
+[2026-04-22 19:43:25] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'E' | Buffer acumulado: PE
+[2026-04-22 19:43:26] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'D' | Buffer acumulado: PED
+[2026-04-22 19:43:26] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'R' | Buffer acumulado: PEDR
+[2026-04-22 19:43:27] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'O' | Buffer acumulado: PEDRO
+[2026-04-22 19:43:29] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'i' | Buffer acumulado: PEDROi
+[2026-04-22 19:43:29] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'n' | Buffer acumulado: PEDROin
+[2026-04-22 19:43:30] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'f' | Buffer acumulado: PEDROinf
+[2026-04-22 19:43:30] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: PEDROinfa
+[2026-04-22 19:43:30] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'n' | Buffer acumulado: PEDROinfan
+[2026-04-22 19:43:31] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 't' | Buffer acumulado: PEDROinfant
+[2026-04-22 19:43:31] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: PEDROinfante
+[2026-04-22 19:43:32] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Alt' | Buffer acumulado: PEDROinfante
+[2026-04-22 19:43:34] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '…' | Buffer acumulado: PEDROinfante…
+[2026-04-22 19:43:34] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '@' | Buffer acumulado: PEDROinfante…@
+[2026-04-22 19:43:34] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '…' | Buffer acumulado: PEDROinfante…@…
+[2026-04-22 19:43:38] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDROinfante…@
+[2026-04-22 19:43:39] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDROinfante…
+[2026-04-22 19:43:39] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDROinfante
+[2026-04-22 19:43:39] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDROinfant
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDROinfan
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDROinfa
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDROinf
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDROin
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDROi
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDRO
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PEDR
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PED
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: PE
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: P
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-22 19:43:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-04-22 19:43:41] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-22 19:43:42] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'P' | Buffer acumulado: P
+[2026-04-22 19:43:43] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'E' | Buffer acumulado: PE
+[2026-04-22 19:43:43] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'D' | Buffer acumulado: PED
+[2026-04-22 19:43:43] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'R' | Buffer acumulado: PEDR
+[2026-04-22 19:43:44] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'O' | Buffer acumulado: PEDRO
+[2026-04-22 19:43:44] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'I' | Buffer acumulado: PEDROI
+[2026-04-22 19:43:45] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'N' | Buffer acumulado: PEDROIN
+[2026-04-22 19:43:45] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'F' | Buffer acumulado: PEDROINF
+[2026-04-22 19:43:45] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'A' | Buffer acumulado: PEDROINFA
+[2026-04-22 19:43:46] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'N' | Buffer acumulado: PEDROINFAN
+[2026-04-22 19:43:46] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'T' | Buffer acumulado: PEDROINFANT
+[2026-04-22 19:43:46] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'E' | Buffer acumulado: PEDROINFANTE
+[2026-04-22 19:43:49] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Alt' | Buffer acumulado: PEDROINFANTE
+[2026-04-22 19:43:49] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '@' | Buffer acumulado: PEDROINFANTE@
+[2026-04-22 19:44:01] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Enter' | Buffer acumulado: PEDROINFANTE@
+[2026-04-23 12:16:22] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-23 12:16:24] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-23 12:16:25] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'T' | Buffer acumulado: T
+[2026-04-23 12:16:25] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'I' | Buffer acumulado: TI
+[2026-04-23 12:16:26] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'L' | Buffer acumulado: TIL
+[2026-04-23 12:16:26] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'I' | Buffer acumulado: TILI
+[2026-04-23 12:16:26] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'N' | Buffer acumulado: TILIN
+[2026-04-23 12:16:26] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'E' | Buffer acumulado: TILINE
+[2026-04-23 12:16:27] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'S' | Buffer acumulado: TILINES
+[2026-04-23 12:16:31] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '9' | Buffer acumulado: TILINES9
+[2026-04-23 12:16:31] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '9' | Buffer acumulado: TILINES99
+[2026-04-23 12:16:36] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '1' | Buffer acumulado: 1
+[2026-04-23 12:16:36] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '2' | Buffer acumulado: 12
+[2026-04-23 12:16:36] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '3' | Buffer acumulado: 123
+[2026-04-23 12:16:36] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '4' | Buffer acumulado: 1234
+[2026-04-23 12:16:38] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'E' | Buffer acumulado: 1234E
+[2026-04-23 12:16:38] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'S' | Buffer acumulado: 1234ES
+[2026-04-23 12:16:38] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'O' | Buffer acumulado: 1234ESO
+[2026-04-23 12:16:39] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'T' | Buffer acumulado: 1234ESOT
+[2026-04-23 12:16:39] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'I' | Buffer acumulado: 1234ESOTI
+[2026-04-23 12:16:39] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'L' | Buffer acumulado: 1234ESOTIL
+[2026-04-23 12:16:39] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'I' | Buffer acumulado: 1234ESOTILI
+[2026-04-23 12:16:40] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'N' | Buffer acumulado: 1234ESOTILIN
+[2026-04-23 12:19:50] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'p' | Buffer acumulado: p
+[2026-04-23 12:19:50] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'i' | Buffer acumulado: pi
+[2026-04-23 12:19:50] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'z' | Buffer acumulado: piz
+[2026-04-23 12:19:50] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'z' | Buffer acumulado: pizz
+[2026-04-23 12:19:51] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: pizza
+[2026-04-23 12:19:52] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '9' | Buffer acumulado: pizza9
+[2026-04-23 12:19:52] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '9' | Buffer acumulado: pizza99
+[2026-04-23 12:19:52] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Alt' | Buffer acumulado: pizza99
+[2026-04-23 12:19:53] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '@' | Buffer acumulado: pizza99@
+[2026-04-23 12:19:53] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'g' | Buffer acumulado: pizza99@g
+[2026-04-23 12:19:54] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'm' | Buffer acumulado: pizza99@gm
+[2026-04-23 12:19:54] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: pizza99@gma
+[2026-04-23 12:19:54] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'i' | Buffer acumulado: pizza99@gmai
+[2026-04-23 12:19:54] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'l' | Buffer acumulado: pizza99@gmail
+[2026-04-23 12:19:56] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '.' | Buffer acumulado: pizza99@gmail.
+[2026-04-23 12:19:56] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'c' | Buffer acumulado: pizza99@gmail.c
+[2026-04-23 12:19:56] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: pizza99@gmail.co
+[2026-04-23 12:19:56] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'm' | Buffer acumulado: pizza99@gmail.com
+[2026-04-23 12:20:01] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'h' | Buffer acumulado: h
+[2026-04-23 12:20:01] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: ha
+[2026-04-23 12:20:01] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'm' | Buffer acumulado: ham
+[2026-04-23 12:20:02] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'b' | Buffer acumulado: hamb
+[2026-04-23 12:20:02] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'u' | Buffer acumulado: hambu
+[2026-04-23 12:20:02] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'r' | Buffer acumulado: hambur
+[2026-04-23 12:20:02] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'g' | Buffer acumulado: hamburg
+[2026-04-23 12:20:03] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'u' | Buffer acumulado: hamburgu
+[2026-04-23 12:20:03] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: hamburgue
+[2026-04-23 12:20:04] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 's' | Buffer acumulado: hamburgues
+[2026-04-23 12:20:04] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: hamburguesa
+[2026-04-23 12:20:04] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '9' | Buffer acumulado: hamburguesa9
+[2026-04-23 12:20:04] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '9' | Buffer acumulado: hamburguesa99
+[2026-04-23 12:35:46] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'p' | Buffer acumulado: p
+[2026-04-23 12:35:46] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: pa
+[2026-04-23 12:35:47] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'b' | Buffer acumulado: pab
+[2026-04-23 12:35:47] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'l' | Buffer acumulado: pabl
+[2026-04-23 12:35:48] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: pablo
+[2026-04-23 12:35:48] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'g' | Buffer acumulado: pablog
+[2026-04-23 12:35:48] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: pablogo
+[2026-04-23 12:35:48] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'r' | Buffer acumulado: pablogor
+[2026-04-23 12:35:49] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'e' | Buffer acumulado: pablogore
+[2026-04-23 12:35:50] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Alt' | Buffer acumulado: pablogore
+[2026-04-23 12:35:50] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '@' | Buffer acumulado: pablogore@
+[2026-04-23 12:35:54] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 's' | Buffer acumulado: pablogore@s
+[2026-04-23 12:35:54] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'e' | Buffer acumulado: pablogore@se
+[2026-04-23 12:35:54] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'x' | Buffer acumulado: pablogore@sex
+[2026-04-23 12:35:55] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: pablogore@sexo
+[2026-04-23 12:35:55] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '.' | Buffer acumulado: pablogore@sexo.
+[2026-04-23 12:35:55] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'c' | Buffer acumulado: pablogore@sexo.c
+[2026-04-23 12:35:55] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: pablogore@sexo.co
+[2026-04-23 12:35:56] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'm' | Buffer acumulado: pablogore@sexo.com
+[2026-04-23 12:36:04] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-23 12:36:05] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'S' | Buffer acumulado: S
+[2026-04-23 12:36:05] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'i' | Buffer acumulado: Si
+[2026-04-23 12:36:05] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'x' | Buffer acumulado: Six
+[2026-04-23 12:36:06] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: Six
+[2026-04-23 12:36:06] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'S' | Buffer acumulado: SixS
+[2026-04-23 12:36:06] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: SixSe
+[2026-04-23 12:36:07] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'v' | Buffer acumulado: SixSev
+[2026-04-23 12:36:07] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: SixSeve
+[2026-04-23 12:36:07] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'n' | Buffer acumulado: SixSeven
+[2026-04-23 12:36:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '6' | Buffer acumulado: SixSeven6
+[2026-04-23 12:36:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '7' | Buffer acumulado: SixSeven67
+[2026-04-23 12:36:09] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '6' | Buffer acumulado: SixSeven676
+[2026-04-23 12:36:09] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '7' | Buffer acumulado: SixSeven6767
+[2026-04-23 12:36:09] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '6' | Buffer acumulado: SixSeven67676
+[2026-04-23 12:36:09] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '7' | Buffer acumulado: SixSeven676767
+[2026-04-23 16:04:20] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'j' | Buffer acumulado: j
+[2026-04-23 16:04:21] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: jo
+[2026-04-23 16:04:21] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'h' | Buffer acumulado: joh
+[2026-04-23 16:04:21] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: joha
+[2026-04-23 16:04:21] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'n' | Buffer acumulado: johan
+[2026-04-23 16:04:22] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '9' | Buffer acumulado: johan9
+[2026-04-23 16:04:22] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '9' | Buffer acumulado: johan99
+[2026-04-23 16:04:23] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Alt' | Buffer acumulado: johan99
+[2026-04-23 16:04:23] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '@' | Buffer acumulado: johan99@
+[2026-04-23 16:04:24] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'g' | Buffer acumulado: johan99@g
+[2026-04-23 16:04:24] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'm' | Buffer acumulado: johan99@gm
+[2026-04-23 16:04:25] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: johan99@gma
+[2026-04-23 16:04:25] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'i' | Buffer acumulado: johan99@gmai
+[2026-04-23 16:04:25] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'l' | Buffer acumulado: johan99@gmail
+[2026-04-23 16:04:25] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '.' | Buffer acumulado: johan99@gmail.
+[2026-04-23 16:04:26] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'c' | Buffer acumulado: johan99@gmail.c
+[2026-04-23 16:04:26] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: johan99@gmail.co
+[2026-04-23 16:04:26] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'm' | Buffer acumulado: johan99@gmail.com
+[2026-04-23 16:04:44] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'CapsLock' | Buffer acumulado: 
+[2026-04-23 16:04:45] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'J' | Buffer acumulado: J
+[2026-04-23 16:04:46] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '7' | Buffer acumulado: J7
+[2026-04-23 16:04:46] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '7' | Buffer acumulado: J77
+[2026-04-23 16:04:46] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '3' | Buffer acumulado: J773
+[2026-04-23 16:04:46] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '0' | Buffer acumulado: J7730
+[2026-04-23 16:04:50] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '4' | Buffer acumulado: J77304
+[2026-04-23 16:04:50] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '8' | Buffer acumulado: J773048
+[2026-04-23 16:04:51] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '8' | Buffer acumulado: J7730488
+[2026-04-23 16:04:53] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Alt' | Buffer acumulado: J7730488
+[2026-04-23 16:04:54] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '@' | Buffer acumulado: J7730488@
+[2026-04-24 08:25:55] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Meta' | Buffer acumulado: 
+[2026-04-24 08:25:55] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Shift' | Buffer acumulado: 
+[2026-04-24 08:25:56] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'r' | Buffer acumulado: r
+[2026-05-03 19:49:30] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'w' | Buffer acumulado: w
+[2026-05-03 19:49:30] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'd' | Buffer acumulado: wd
+[2026-05-03 19:49:30] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'i' | Buffer acumulado: wdi
+[2026-05-03 19:49:30] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'd' | Buffer acumulado: wdid
+[2026-05-03 19:49:30] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'd' | Buffer acumulado: wdidd
+[2026-05-03 19:49:30] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '3' | Buffer acumulado: wdidd3
+[2026-05-03 19:49:31] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: wdidd3o
+[2026-05-03 19:49:31] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'd' | Buffer acumulado: wdidd3od
+[2026-05-03 19:49:31] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'd' | Buffer acumulado: wdidd3odd
+[2026-05-03 19:49:31] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: '3' | Buffer acumulado: wdidd3odd3
+[2026-05-03 19:49:31] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: wdidd3odd3o
+[2026-05-03 19:49:32] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Enter' | Buffer acumulado: wdidd3odd3o
+[2026-05-03 19:49:34] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'w' | Buffer acumulado: w
+[2026-05-03 19:49:34] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: wo
+[2026-05-03 19:49:34] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'd' | Buffer acumulado: wod
+[2026-05-03 19:49:35] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: wodo
+[2026-05-03 19:49:35] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '3' | Buffer acumulado: wodo3
+[2026-05-03 19:49:35] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'd' | Buffer acumulado: wodo3d
+[2026-05-03 19:49:35] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: wodo3do
+[2026-05-03 19:49:35] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'd' | Buffer acumulado: wodo3dod
+[2026-05-03 19:49:35] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '3' | Buffer acumulado: wodo3dod3
+[2026-05-03 19:49:35] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'j' | Buffer acumulado: wodo3dod3j
+[2026-05-03 19:49:36] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'd' | Buffer acumulado: wodo3dod3jd
+[2026-05-03 19:49:36] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: wodo3dod3jdo
+[2026-05-03 19:49:36] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'd' | Buffer acumulado: wodo3dod3jdod
+[2026-05-03 19:49:36] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: wodo3dod3jdodo
+[2026-05-03 19:49:36] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'l' | Buffer acumulado: wodo3dod3jdodol
+[2026-05-03 19:49:37] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: '3' | Buffer acumulado: wodo3dod3jdodol3
+[2026-05-03 19:49:37] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'd' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:07] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'ArrowRight' | Buffer acumulado: wodo3dod3jdodol3d
+[2026-05-03 19:50:09] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3dod3jdodol3
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3dod3jdodol
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3dod3jdodo
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3dod3jdod
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3dod3jdo
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3dod3jd
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3dod3j
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3dod3
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3dod
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3do
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3d
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo3
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wodo
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wod
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: wo
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: w
+[2026-05-03 19:50:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: wdidd3odd3
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: wdidd3odd
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: wdidd3od
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: wdidd3o
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: wdidd3
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: wdidd
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: wdid
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: wdi
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: wd
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: w
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:13] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Backspace' | Buffer acumulado: 
+[2026-05-03 19:50:20] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Meta' | Buffer acumulado: 
+[2026-05-03 19:50:20] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Shift' | Buffer acumulado: 
+[2026-05-03 19:50:20] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'r' | Buffer acumulado: r
+[2026-05-03 19:50:27] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'h' | Buffer acumulado: h
+[2026-05-03 19:50:28] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'o' | Buffer acumulado: ho
+[2026-05-03 19:50:28] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'l' | Buffer acumulado: hol
+[2026-05-03 19:50:28] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: hola
+[2026-05-03 19:50:38] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Meta' | Buffer acumulado: hola
+[2026-05-03 19:50:38] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'Shift' | Buffer acumulado: hola
+[2026-05-06 15:21:54] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'p' | Buffer acumulado: p
+[2026-05-06 15:21:54] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'u' | Buffer acumulado: pu
+[2026-05-06 15:21:55] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 't' | Buffer acumulado: put
+[2026-05-06 15:21:55] [SISTEMA] Intercepción en 'Campo Usuario (rulo_@)': Tecla capturada: 'a' | Buffer acumulado: puta
+[2026-05-06 15:22:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'c' | Buffer acumulado: c
+[2026-05-06 15:22:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: ca
+[2026-05-06 15:22:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'c' | Buffer acumulado: cac
+[2026-05-06 15:22:08] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'a' | Buffer acumulado: caca
+[2026-05-06 15:22:09] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'd' | Buffer acumulado: cacad
+[2026-05-06 15:22:09] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: cacade
+[2026-05-06 15:22:09] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'p' | Buffer acumulado: cacadep
+[2026-05-06 15:22:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'e' | Buffer acumulado: cacadepe
+[2026-05-06 15:22:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'r' | Buffer acumulado: cacadeper
+[2026-05-06 15:22:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'r' | Buffer acumulado: cacadeperr
+[2026-05-06 15:22:10] [SISTEMA] Intercepción en 'Campo Contraseña (!312)': Tecla capturada: 'o' | Buffer acumulado: cacadeperro
