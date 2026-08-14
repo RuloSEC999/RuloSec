@@ -1,0 +1,82 @@
+########################################################################
+# Kali Linux — instalación desatendida (preseed)
+#
+# Plantilla. NO se usa directamente: provision-kali.sh sustituye los
+# marcadores y escribe el preseed final en su directorio de trabajo.
+# Así el repo nunca contiene un hash de contraseña.
+########################################################################
+
+### Localización ######################################################
+d-i debian-installer/locale             string  @@LOCALE@@
+d-i localechooser/supported-locales     multiselect @@LOCALE@@
+d-i keyboard-configuration/xkb-keymap   select  @@KEYMAP@@
+
+### Red ###############################################################
+d-i netcfg/choose_interface     select  auto
+d-i netcfg/get_hostname         string  @@HOSTNAME@@
+d-i netcfg/get_domain           string  local
+d-i netcfg/hostname             string  @@HOSTNAME@@
+# No abortar si DHCP tarda; reintentar en silencio.
+d-i netcfg/dhcp_timeout         string  60
+d-i hw-detect/load_firmware     boolean true
+
+### Mirror ############################################################
+d-i mirror/country              string  manual
+d-i mirror/http/hostname        string  http.kali.org
+d-i mirror/http/directory       string  /kali
+d-i mirror/http/proxy           string  @@APT_PROXY@@
+d-i mirror/suite                string  kali-rolling
+d-i mirror/codename             string  kali-rolling
+
+### Cuentas ###########################################################
+# Login de root deshabilitado: se administra por sudo desde el usuario.
+d-i passwd/root-login           boolean false
+d-i passwd/make-user            boolean true
+d-i passwd/user-fullname        string  @@USER@@
+d-i passwd/username             string  @@USER@@
+d-i passwd/user-password-crypted password @@PWHASH@@
+d-i user-setup/allow-password-weak boolean false
+d-i user-setup/encrypt-home     boolean false
+
+### Reloj #############################################################
+d-i clock-setup/utc             boolean true
+d-i time/zone                   string  @@TIMEZONE@@
+d-i clock-setup/ntp             boolean true
+
+### Particionado ######################################################
+# Disco completo con LVM. /dev/vda es virtio (QEMU/KVM), /dev/sda SATA.
+# El instalador toma el primero que exista.
+d-i partman-auto/disk           string  /dev/vda /dev/sda
+d-i partman-auto/method         string  lvm
+d-i partman-auto-lvm/guided_size string max
+d-i partman-lvm/device_remove_lvm boolean true
+d-i partman-md/device_remove_md boolean true
+d-i partman-lvm/confirm         boolean true
+d-i partman-lvm/confirm_nooverwrite boolean true
+# "atomic" = todo en una sola partición. Alternativas: home / multi.
+d-i partman-auto/choose_recipe  select  atomic
+d-i partman-partitioning/default_label string gpt
+d-i partman-partitioning/confirm_write_new_label boolean true
+d-i partman/choose_partition    select  finish
+d-i partman/confirm             boolean true
+d-i partman/confirm_nooverwrite boolean true
+d-i partman-efi/non_efi_system  boolean true
+
+### Paquetes ##########################################################
+# Se selecciona por metapaquete explícito en vez de por tasksel: los
+# nombres de tasksel cambian entre releases, los metapaquetes no.
+tasksel tasksel/first           multiselect
+d-i pkgsel/include              string  @@PACKAGES@@
+d-i pkgsel/upgrade              select  full-upgrade
+popularity-contest popularity-contest/participate boolean false
+
+### GRUB ##############################################################
+d-i grub-installer/only_debian  boolean true
+d-i grub-installer/with_other_os boolean true
+d-i grub-installer/bootdev      string  default
+
+### Fin ###############################################################
+d-i finish-install/reboot_in_progress note
+# Apagar en vez de reiniciar: así el proceso de QEMU termina solo y el
+# script sabe que la instalación acabó.
+d-i debian-installer/exit/poweroff boolean true
