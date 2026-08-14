@@ -7,6 +7,10 @@ Dos herramientas con propósitos distintos. Elige según lo que necesites.
 | `lab-cia-virtualbox.sh` | Práctica 01 de ICSA-014 (FCC/BUAP): crea las VMs con la red exacta y tú recorres el instalador capturando pantallas | VirtualBox |
 | `provision-kali.sh` | Kali desatendido y reproducible, sin tocar el instalador | QEMU o libvirt/KVM |
 
+> **¿Empezando la práctica?** El [Paso 1 — Preparar VirtualBox y las ISOs](paso-01-preparacion.md)
+> cubre qué imágenes descargar (ojo: Kali **Installer**, no Live; y Debian 12 ya
+> no está en `current/`) y cómo verificar su firma antes de crear nada.
+
 ---
 
 ## `lab-cia-virtualbox.sh` — la práctica
