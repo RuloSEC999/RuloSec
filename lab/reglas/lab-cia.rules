@@ -1,0 +1,84 @@
+# ---------------------------------------------------------------------------
+# LAB-CIA — Reglas de detección de reconocimiento
+# Práctica 01 "Identificación de Riesgos de Confidencialidad" — ICSA-014
+#
+# Compatibles con Suricata y con Snort 2.9. Rango de SID local: 1000000+
+# (el rango 1000000-1999999 está reservado para reglas propias).
+#
+# El hilo conductor es la CONFIDENCIALIDAD: cada regla detecta una forma de
+# que un atacante obtenga información que no debería tener.
+# ---------------------------------------------------------------------------
+
+# --- 1. Descubrimiento de hosts -------------------------------------------
+# Un barrido ICMP revela qué máquinas existen en el segmento. Una máquina
+# sola haciendo ping a medio rango en segundos no es tráfico legítimo.
+alert icmp $EXTERNAL_NET any -> $HOME_NET any ( \
+    msg:"LAB-CIA Barrido ICMP - descubrimiento de hosts"; \
+    itype:8; \
+    threshold: type both, track by_src, count 10, seconds 20; \
+    classtype:attempted-recon; sid:1000001; rev:1;)
+
+# --- 2. Escaneo SYN (nmap -sS) --------------------------------------------
+# El escaneo sigiloso: envía SYN, y ante el SYN/ACK responde RST sin llegar
+# a completar el handshake. Muchos SYN desde un mismo origen en poco tiempo
+# es la firma más clara de un escaneo de puertos.
+alert tcp $EXTERNAL_NET any -> $HOME_NET any ( \
+    msg:"LAB-CIA Escaneo SYN de puertos - posible nmap -sS"; \
+    flags:S,12; \
+    threshold: type both, track by_src, count 30, seconds 10; \
+    classtype:attempted-recon; sid:1000002; rev:1;)
+
+# --- 3. Escaneos con banderas anómalas ------------------------------------
+# NULL, FIN y XMAS explotan el RFC 793 para distinguir puertos cerrados de
+# filtrados sin dejar rastro en logs de aplicación. Ninguna pila TCP normal
+# genera estos paquetes: verlos es, por sí solo, indicio de escaneo.
+alert tcp $EXTERNAL_NET any -> $HOME_NET any ( \
+    msg:"LAB-CIA Escaneo NULL - sin banderas TCP (nmap -sN)"; \
+    flags:0; \
+    classtype:attempted-recon; sid:1000003; rev:1;)
+
+alert tcp $EXTERNAL_NET any -> $HOME_NET any ( \
+    msg:"LAB-CIA Escaneo FIN - FIN aislado (nmap -sF)"; \
+    flags:F,12; \
+    classtype:attempted-recon; sid:1000004; rev:1;)
+
+alert tcp $EXTERNAL_NET any -> $HOME_NET any ( \
+    msg:"LAB-CIA Escaneo XMAS - FIN+PSH+URG (nmap -sX)"; \
+    flags:FPU,12; \
+    classtype:attempted-recon; sid:1000005; rev:1;)
+
+# --- 4. Fuga de información por banners -----------------------------------
+# Aquí está el riesgo de confidencialidad concreto: el servicio anuncia su
+# versión exacta, con lo que el atacante puede buscar exploits conocidos sin
+# tocar nada más. Se alerta sobre la RESPUESTA que sale del servidor.
+alert tcp $HOME_NET 22 -> $EXTERNAL_NET any ( \
+    msg:"LAB-CIA Fuga de confidencialidad - banner SSH con version"; \
+    flow:from_server,established; \
+    content:"SSH-"; depth:4; \
+    classtype:misc-activity; sid:1000006; rev:1;)
+
+alert tcp $HOME_NET 3306 -> $EXTERNAL_NET any ( \
+    msg:"LAB-CIA Fuga de confidencialidad - banner MySQL con version"; \
+    flow:from_server,established; \
+    classtype:misc-activity; sid:1000007; rev:1;)
+
+alert tcp $HOME_NET 21 -> $EXTERNAL_NET any ( \
+    msg:"LAB-CIA Fuga de confidencialidad - banner FTP con version"; \
+    flow:from_server,established; \
+    content:"220"; depth:3; \
+    classtype:misc-activity; sid:1000008; rev:1;)
+
+alert tcp $HOME_NET 80 -> $EXTERNAL_NET any ( \
+    msg:"LAB-CIA Fuga de confidencialidad - cabecera Server de Apache"; \
+    flow:from_server,established; \
+    content:"Server|3a| Apache"; nocase; \
+    classtype:misc-activity; sid:1000009; rev:1;)
+
+# --- 5. Sondeo de servicios sensibles --------------------------------------
+# Un intento de conexión a la base de datos desde el segmento del atacante
+# es, por definición, un riesgo directo de confidencialidad: ahí viven los
+# datos. No debería haber tráfico legítimo a 3306 desde esa dirección.
+alert tcp $EXTERNAL_NET any -> $HOME_NET 3306 ( \
+    msg:"LAB-CIA Acceso a base de datos MySQL desde red no autorizada"; \
+    flags:S; \
+    classtype:attempted-recon; sid:1000010; rev:1;)
