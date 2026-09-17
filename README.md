@@ -1,5 +1,5 @@
 # RuloSec
-### *// Explota tu conocimiento — Educational Cybersecurity Platform*
+### *// Unleash Your Knowledge — Educational Cybersecurity Platform*
 
 > **Live demo platform that executes real cyberattacks in a controlled environment and explains them in real time, so anyone can understand how to protect themselves.**
 
@@ -130,11 +130,11 @@ The project's visual identity is built around **Quetzalcóatl** — the Mesoamer
 ## Author
 
 **Ángel Raúl Sedano Matías**
-Ingeniería en Ciberseguridad — BUAP (Benemérita Universidad Autónoma de Puebla)
+Cybersecurity Engineering — BUAP (Benemérita Universidad Autónoma de Puebla, Mexico)
 FEPRO 2026 · Category B · Digital Innovation · SDG 4
 
 📧 bulletproofRul000@pm.me
 
 ---
 
-*"La serpiente que vigila el código." / "The serpent that watches over the code."*
+*"The serpent that watches over the code."*
