@@ -1,0 +1,34 @@
+networks:
+  red_interna:
+    driver: bridge
+
+services:
+
+  tor:
+    image: goldy/tor-hidden-service:latest
+    environment:
+      - WEB_TOR_SERVICE_HOSTS=80:app_python:5001
+    volumes:
+      - ./tor_keys:/var/lib/tor/hidden_service/
+    depends_on:
+      - app_python
+    networks:
+      - red_interna
+    restart: unless-stopped
+
+  app_python:
+    image: python:3.11-slim
+    working_dir: /app
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1   # salida inmediata sin buffer — las alertas aparecen al instante
+    command: sh -c "apt-get update && apt-get install -y iputils-ping net-tools iproute2 && pip install flask requests && python -u servidor.py"
+    expose:
+      - "5001"
+    networks:
+      - red_interna
+    cap_add:
+      - NET_RAW      # permite ping (raw sockets)
+      - NET_ADMIN    # permite operaciones ARP e interfaces de red
+    restart: unless-stopped

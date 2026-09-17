@@ -1,0 +1,27 @@
+# Claves privadas Tor — nunca subir
+tor_keys/
+
+# Evidencia del keylogger — datos sensibles
+evidencia_quetzalcoatl.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Logs y archivos de salida
+rulosec_output.log
+*.log
+
+# Archivos de escaneo
+subdominios_vivos.txt
+todos_los_subdominios.txt
+
+# VS Code
+*.code-workspace
+.claude/

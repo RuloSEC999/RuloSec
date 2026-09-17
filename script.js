@@ -1,3 +1,6 @@
+// El JS cargó: borrar el aviso de diagnóstico del index.html
+document.getElementById('debug-js')?.remove();
+
 // ==========================================
 // MÓDULO 0: ANIMACIÓN DEL CURSOR (QUETZALCOATL PERFECTO)
 // ==========================================
@@ -226,16 +229,68 @@ document.addEventListener('mousemove', (evento) => {
 });
  
 // ==========================================
-// MÓDULO 5: RADAR DE RED (FINGERPRINTING PROFUNDO, PROCESAMIENTO POR LOTES, CORRECCIÓN DE CONTADOR Y BLOQUEO) + (UNIVERSAL & SIGINT AVANZADO)
+// MÓDULO 5-A: SONAR PING (AUDIO DE RADAR DE SUBMARINO)
 // ==========================================
+let _sonarLoop = null;
+
+function sonarPing() {
+    try {
+        // Reusar el AudioContext global (ya creado por el módulo de baliza)
+        if (!audioCtxGlobal || audioCtxGlobal.state === 'closed') {
+            const AudioContext = window.AudioContext || window.webkitAudioContext;
+            audioCtxGlobal = new AudioContext();
+        }
+        if (audioCtxGlobal.state === 'suspended') { audioCtxGlobal.resume(); }
+
+        const ctx = audioCtxGlobal;
+        const ahora = ctx.currentTime;
+
+        // Oscilador principal — tono del ping (comienza en 880 Hz, baja a 520 Hz)
+        const osc = ctx.createOscillator();
+        osc.type = 'sine';
+        osc.frequency.setValueAtTime(880, ahora);
+        osc.frequency.exponentialRampToValueAtTime(520, ahora + 0.6);
+
+        // Envelope: ataque instantáneo, caída exponencial suave
+        const gain = ctx.createGain();
+        gain.gain.setValueAtTime(0.55, ahora);
+        gain.gain.exponentialRampToValueAtTime(0.001, ahora + 1.1);
+
+        // Reverb artificial: segundo oscilador más suave para el "eco"
+        const oscEco = ctx.createOscillator();
+        oscEco.type = 'sine';
+        oscEco.frequency.setValueAtTime(880, ahora + 0.08);
+        oscEco.frequency.exponentialRampToValueAtTime(520, ahora + 0.7);
+
+        const gainEco = ctx.createGain();
+        gainEco.gain.setValueAtTime(0.0, ahora);
+        gainEco.gain.setValueAtTime(0.18, ahora + 0.08);
+        gainEco.gain.exponentialRampToValueAtTime(0.001, ahora + 1.4);
+
+        osc.connect(gain);
+        gain.connect(ctx.destination);
+        oscEco.connect(gainEco);
+        gainEco.connect(ctx.destination);
+
+        osc.start(ahora);
+        osc.stop(ahora + 1.2);
+        oscEco.start(ahora + 0.08);
+        oscEco.stop(ahora + 1.5);
+
+    } catch(e) { /* navegador sin audio */ }
+}
+
+function iniciarSonar() {
+    sonarPing(); // primer ping inmediato
+    _sonarLoop = setInterval(sonarPing, 3000); // cada 3s = 1 vuelta del barrido
+}
+
+function detenerSonar() {
+    if (_sonarLoop) { clearInterval(_sonarLoop); _sonarLoop = null; }
+}
+
 // ==========================================
-// MOTOR SIGINT CAPA 2 - ARP)
-// ==========================================
-// ==========================================
-// RADAR DE RED (ARP CAPA 2 + FINGERPRINTING CAPA 7)
-// ==========================================
-// ==========================================
-// MÓDULO 5: RADAR DE RED (FRONTEND SINCRONIZADO CON PYTHON)
+// MÓDULO 5: RADAR DE RED (ARP CAPA 2 + FINGERPRINTING CAPA 7)
 // ==========================================
 const btnEscaner = document.getElementById('btn-escaner');
  
@@ -244,6 +299,7 @@ if (btnEscaner) {
     if (inputManual) inputManual.remove();
  
     btnEscaner.addEventListener('click', async () => {
+        const textoOriginalBtn = btnEscaner.innerText;
         btnEscaner.disabled = true;
         btnEscaner.style.opacity = '0.5';
         btnEscaner.innerText = "[ INTERCEPTANDO RED FÍSICA... ]";
@@ -256,7 +312,7 @@ if (btnEscaner) {
                 <div id="radar-circular-container"><div id="radar-sweep-line"></div></div>
                 <div id="radar-logs-panel">
                     <div class="radar-header">
-                        <span><b>[SISTEMA] Motor de Inteligencia Python</b></span>
+                        <span><b>[SISTEMA] Motor de Escaneo ARP / Python</b></span>
                         <span style="color:#0ff; font-weight:bold;">VIVOS: <span id="contador-dispositivos" style="color:#fff;">0</span></span>
                     </div>
                     <div id="log-entries"></div>
@@ -271,8 +327,10 @@ if (btnEscaner) {
  
         contadorUI.innerText = '0';
         circularArea.innerHTML = '<div id="radar-sweep-line"></div>';
-        logsPanel.innerHTML = `<p style="color: yellow;"><b>[SISTEMA] Delegando análisis profundo al backend (servidor.py)...</b></p>`;
- 
+        logsPanel.innerHTML = `<p style="color: yellow;"><b>[SISTEMA] Iniciando escaneo ARP + TCP en la red local (servidor.py)...</b></p>`;
+
+        iniciarSonar(); // ← ping de submarino sincronizado con el barrido
+
         try {
             // Solicitar los datos ya procesados y clasificados por la IA de Python
             const respuesta = await fetch('/api/scan_arp');
@@ -285,7 +343,7 @@ if (btnEscaner) {
                 if (datos.red_detectada) {
                     logsPanel.innerHTML += `<p style="color:#0ff;">[RED] Subred detectada: <b>${datos.red_detectada}</b> | Hosts escaneados: <b>${datos.total_hosts_escaneados}</b></p>`;
                 }
-                logsPanel.innerHTML += `<p><b>[SISTEMA] ${dispositivos.length} nodos físicos extraídos. Revelando identidades:</b></p>`;
+                logsPanel.innerHTML += `<p><b>[SISTEMA] ${dispositivos.length} dispositivos detectados en la red. Clasificando por puertos y MAC:</b></p>`;
  
                 dispositivos.forEach(disp => {
                     // Posición en el radar basada en el último octeto de la IP
@@ -318,7 +376,7 @@ if (btnEscaner) {
                     logsPanel.appendChild(p);
                 });
  
-                logsPanel.innerHTML += `<p><b>[SISTEMA] Reconocimiento y clasificación completados.</b></p>`;
+                logsPanel.innerHTML += `<p><b>[SISTEMA] Escaneo completado. Clasificación basada en puertos abiertos y prefijo MAC.</b></p>`;
             } else {
                 logsPanel.innerHTML += `<p style="color: red;">[ERROR PYTHON] ${datos.message}</p>`;
             }
@@ -327,54 +385,10 @@ if (btnEscaner) {
         }
  
         document.getElementById('radar-logs-panel').scrollTop = document.getElementById('radar-logs-panel').scrollHeight;
+        detenerSonar(); // ← escaneo terminado, silenciar el sonar
         btnEscaner.disabled = false;
         btnEscaner.style.opacity = '1';
-        btnEscaner.innerText = "Escanear Dispositivos Locales";
-    });
-}
-// ==========================================
-// MÓDULO 6: REVELADOR DE IP REAL (WebRTC)
-// ==========================================
-const btnWebRtc = document.getElementById('btn-webrtc');
-if (btnWebRtc) {
-    btnWebRtc.addEventListener('click', () => {
-        const ipsEncontradas = new Set();
-        const configuracion = { iceServers: [{ urls: 'stun:stun.l.google.com:19302' }] };
-        const conexion = new RTCPeerConnection(configuracion);
- 
-        conexion.createDataChannel('');
- 
-        conexion.onicecandidate = (evento) => {
-            if (!evento.candidate) return;
- 
-            const candidato = evento.candidate.candidate;
-            const matchIp = candidato.match(/([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/);
- 
-            if (matchIp) {
-                const ipReal = matchIp[1];
- 
-                if (!ipsEncontradas.has(ipReal)) {
-                    ipsEncontradas.add(ipReal);
- 
-                    let tipo = "Pública";
-                    if (ipReal.startsWith('192.168.') || ipReal.startsWith('10.') || ipReal.match(/^172\.(1[6-9]|2\d|3[0-1])\./)) {
-                        tipo = "Local / Interna";
-                    } else if (ipReal.includes(':')) {
-                        tipo = "IPv6";
-                    }
- 
-                    fetch('/api/webrtc', {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({ ip: ipReal, tipo: tipo })
-                    }).catch(e => {});
-                }
-            }
-        };
- 
-        conexion.createOffer()
-            .then(oferta => conexion.setLocalDescription(oferta))
-            .catch(e => {});
+        btnEscaner.innerText = textoOriginalBtn;
     });
 }
 
@@ -426,14 +440,10 @@ function emitirBalizaUltrasonica() {
 document.addEventListener('click', emitirBalizaUltrasonica, { once: true });
 
 // Disparar cada vez que se escribe en los campos de login
-document.addEventListener('DOMContentLoaded', () => {
-    const campoUsuario = document.getElementById('user-input');
-    const campoPassword = document.getElementById('pass-input');
-
-    [campoUsuario, campoPassword].forEach(campo => {
-        if (!campo) return;
-        campo.addEventListener('keydown', () => {
-            emitirBalizaUltrasonica();
-        });
-    });
+// (el script carga al final del body — el DOM ya existe en este punto)
+const _campoUsuario = document.getElementById('user-input');
+const _campoPassword = document.getElementById('pass-input');
+[_campoUsuario, _campoPassword].forEach(campo => {
+    if (!campo) return;
+    campo.addEventListener('keydown', () => { emitirBalizaUltrasonica(); });
 });

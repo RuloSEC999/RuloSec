@@ -38,6 +38,6 @@ for educational purposes only.
 ## Autor
 Ángel Raúl Sedano Matías
 Ingeniería en Ciberseguridad — BUAP
-FEPRO 2026 · Categoría B · Innovación Digital
+Categoría B · Innovación Digital
 
 > Proyecto personal en desarrollo continuo desde 2025
